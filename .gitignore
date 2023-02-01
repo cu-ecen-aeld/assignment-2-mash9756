@@ -1,4 +1,5 @@
 *.o
+aarch64-writer
 writer
 Test_*_Runner.c
 build/
